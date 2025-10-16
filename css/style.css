@@ -1,0 +1,74 @@
+/* -------------- Header ------------------- */
+#header{
+	padding: 10px 0;
+	background: #0C8B06;
+}
+
+/* -------------- Menu ------------------- */
+#menu{
+	background: #0CE825;
+	margin-bottom: 20px;
+}
+#menu .navbar{
+	margin-bottom: 0;
+	border-right: none;
+	border-left: none;
+	
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+}
+#menu .dropdown-menu{
+	background: #FCFFFC;
+}
+#menu .dropdown-menu a{
+	color: #239F39;
+	padding: 10px;
+}
+#menu .dropdown-menu a:hover{
+	background: #0C8B06;;
+	color: #fff;
+}
+#menu .search{
+	margin: 10px -20px 10px 0;
+}
+/* -------------- Sidebar ------------------- */
+
+.nav-tabs{
+	background: #0C8B06;;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.nav-tabs li a {
+	color:#110E0E ;
+}
+.navbar-nav li a{
+	color:#fff;
+}
+.tab-content{
+	border: 1px solid #ccc;
+	border-top: none;
+	margin-bottom: 20px;
+}
+.tab-content ul{
+	padding: 0;
+}
+.tab-content li{
+	list-style: none;
+	border-bottom: 1px solid #eee;
+	padding: 10px;
+	overflow: hidden;
+}
+.tab-content img{
+	width: 80px;
+	height: 60px;
+	float: left;
+	margin-right: 10px;
+}
+/* -------------- Footer ------------------- */
+#footer{
+	background: #0C8B06;
+	padding: 10px;
+	margin-top: 20px;
+	color: #ccc;	
+}
